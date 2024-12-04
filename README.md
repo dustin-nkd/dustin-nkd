@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Khanh Duy</h1>
-<h3 align="center">A Quality Assurance Engineer from Vietnam</h3>
+<h3 align="center">A Software Test Engineer from Vietnam</h3>
 
 - 🔭 I’m currently working on **Webroot, an OpenText company**
 
