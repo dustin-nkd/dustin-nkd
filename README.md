@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/dustin-nkd" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/dustin-nkd" height="30" width="40"/>
   </a>
-  <a href="skype:live:.cid.67a8a6d8a0a67084?chat">
+  <a href="https://join.skype.com/invite/live:.cid.67a8a6d8a0a67084" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="skype" height="30" width="40"/>
   </a>
 </p>
