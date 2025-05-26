@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Webroot, an OpenText company**
 
-- 💬 Ask me about **Manual Testing, Automation Testing, API Testing/*, Performance Testing*/**
+- 💬 Ask me about **Manual Testing, Automation Testing, API Testing <!-- Performance Testing -->**
 
 - 📫 How to reach me **nguyenkhanhduy.sgd@gmail.com**
 
