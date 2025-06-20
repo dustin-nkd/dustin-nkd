@@ -34,7 +34,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-<!--   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="40" height="40"/>
-  </a> -->
+  </a>
 </p>
