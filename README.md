@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Khanh Duy</h1>
 <h3 align="center">A Software Test Engineer from Vietnam</h3>
 
-- 🔭 I’m currently working on **Webroot, an OpenText company**
+- 🔭 I’m currently working on **Trulioo**
 
 - 💬 Ask me about **Manual Testing, Automation Testing, API Testing <!-- Performance Testing -->**
 
