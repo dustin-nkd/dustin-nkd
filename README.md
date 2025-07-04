@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen Khanh Duy</h1>
 <h3 align="center">A Software Test Engineer from Vietnam</h3>
 
-- 🔭 I’m currently working on **Trulioo**
+- 🔭 I’m currently working at **Trulioo**
 
-- 💬 Ask me about **Manual Testing, Automation Testing, API Testing <!-- Performance Testing -->**
+- 💬 Ask me about **Manual Testing, Automation Testing, API Testing and Performance Testing**
 
 - 📫 How to reach me **nguyenkhanhduy.sgd@gmail.com**
 
