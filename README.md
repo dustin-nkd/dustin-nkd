@@ -74,4 +74,4 @@ QA Engineer with **4+ years** owning end-to-end quality across **KYC/AML complia
 
 ---
 
-*Currently open to **QA Automation Engineer** opportunities — especially in fintech, regtech, or cybersecurity domains.*
+*Currently open to **QA Engineer** opportunities — especially in fintech, regtech, or cybersecurity domains.*
