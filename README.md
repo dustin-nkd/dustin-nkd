@@ -1,17 +1,16 @@
 # Hi, I'm Duy (Dustin) 👋
-
 > *I don't just find bugs — I prevent them from reaching production.*
 
-QA Engineer with 3+ years owning end-to-end quality across **KYC/AML compliance** and **enterprise cybersecurity** domains. I embed quality at the requirements stage — catching ambiguities before dev writes a single line of code.
+QA Engineer with **4+ years** owning end-to-end quality across **KYC/AML compliance** and **enterprise cybersecurity** domains. I embed quality at the requirements stage — catching ambiguities before dev writes a single line of code.
 
 ---
 
 ## 🧪 What I Do
 
-- **Shift-left quality** — resolve requirement ambiguities pre-sprint, not post-release
+- **Shift-left quality** — identify 4–7 AC gaps per sprint in pre-sprint reviews, resolving compliance ambiguities before development begins
 - **Test automation** — build and maintain Selenium frameworks that reduce regression effort
-- **API testing** — Postman-based regression across compliance and security platforms
-- **Defect lifecycle management** — from root cause analysis to stakeholder-visible metrics
+- **API testing** — Postman validation across 15+ KYC identity provider integrations
+- **Defect lifecycle management** — sub-2% defect escape rate sustained across 8+ sprints via root cause analysis and targeted test design
 
 ---
 
@@ -29,16 +28,25 @@ QA Engineer with 3+ years owning end-to-end quality across **KYC/AML compliance*
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
-### [AutomationExercise UI Testing Framework](https://github.com/dustin-nkd/automationexercise-ui-selenium-python)
-> Enterprise-grade UI automation framework built from scratch
+### [AutomationExercise UI Testing Framework](https://github.com/dustin-nkd/automationexercise-ui-selenium-python) · [Java](https://github.com/dustin-nkd/automationexercise-ui-selenium-java)
+> UI automation framework built from scratch in both Python and Java
 
-- **Stack:** Selenium · Python · Pytest · Allure Report · YAML
-- **Architecture:** Component-based Page Object Model (POM) with clean layered separation
-- **Coverage:** 26 automated test cases — registration, login, cart, checkout, invoice, subscriptions
-- **Reporting:** Allure Reports with auto screenshot-on-failure → ~70% reduction in MTTD
-- **Config:** YAML-based config + DataGenerator utility for data-driven, CLI-switchable environments
+- **Stack:** Selenium · Python · Pytest · Allure Report · YAML · TestNG · Java · Maven
+- **Architecture:** Component-based Page Object Model with clean separation across test logic, page objects, components, and utilities
+- **Coverage:** 26 test cases across registration, login, cart, checkout (3 scenarios), invoice, and subscriptions — ~85% journey coverage
+- **Reporting:** Allure Reports with auto screenshot-on-failure for instant visual failure diagnosis
+- **Python:** YAML-based config + DataGenerator utility for data-driven, CLI-switchable environments
+- **Java:** ThreadLocal-WebDriver for parallel execution · Selenium Manager for zero-config driver setup · Datafaker for dynamic test data
+
+### [Book Management API Testing Framework](https://github.com/dustin-nkd/book-management-api-testing-framework-python-requests)
+> Layered REST API automation framework with strict separation of concerns
+
+- **Stack:** Python · Requests · Pytest · Allure Report · python-dotenv
+- **Architecture:** Layered design across client (HTTP), service (business logic), data, and test layers
+- **Coverage:** Full CRUD lifecycle with positive and negative scenarios validating status codes, response schemas, and business rules
+- **Config:** Startup validation of all required env variables via python-dotenv — prevents misconfigured runs across environments
 
 ---
 
@@ -46,8 +54,8 @@ QA Engineer with 3+ years owning end-to-end quality across **KYC/AML compliance*
 
 | Domain | Company | Scope |
 |---|---|---|
-| KYC / AML Compliance | Trulioo | Identity verification · 195+ countries |
-| Endpoint Security | OpenText (Webroot) | Endpoint protection · Threat intelligence |
+| KYC / AML Compliance | Trulioo | Identity verification · 195+ countries · 15+ provider integrations |
+| Endpoint Security | OpenText (Webroot) | Endpoint protection · Threat intelligence · URL classification |
 
 ---
 
